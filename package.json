@@ -1,0 +1,15 @@
+{
+  "name": "biblioteste",
+  "version": "1.0.0",
+  "description": "Teste de bibliotecas",
+  "main": "teste.js",
+  "scripts": {
+    "test": "testando()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/Dinerf/biblioteste.git"
+  },
+  "author": "Dinerf",
+  "license": "ISC"
+}
